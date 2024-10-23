@@ -1,2 +1,2 @@
-# Mathematical_Analysis_Seminar_5
+# Mathematical_Analysis_Homework_5
 Year 1, Seminar 5 Analysis Homework

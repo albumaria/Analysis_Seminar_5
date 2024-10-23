@@ -1,2 +1,2 @@
-# Analysis_Seminar_5
-This is the final Python script for homework number 5
+# Mathematical_Analysis_Seminar_5
+Year 1, Seminar 5 Analysis Homework
